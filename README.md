@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+### Tech stack
+```
+- React
+- Tailwind CSS
+- react-twitter-widgets(npm)
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
